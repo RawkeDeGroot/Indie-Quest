@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\Bowling.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\Bowling.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Bowling\Bowling\bin\Debug\net5.0\Bowling.exe
+C:\Users\Robin\source\repos\Bowling\Bowling\bin\Debug\net5.0\Bowling.deps.json
+C:\Users\Robin\source\repos\Bowling\Bowling\bin\Debug\net5.0\Bowling.runtimeconfig.json
+C:\Users\Robin\source\repos\Bowling\Bowling\bin\Debug\net5.0\Bowling.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Bowling\Bowling\bin\Debug\net5.0\Bowling.dll
+C:\Users\Robin\source\repos\Bowling\Bowling\bin\Debug\net5.0\Bowling.pdb
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\Bowling.dll
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\refint\Bowling.dll
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\Bowling.pdb
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\Bowling.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Bowling\Bowling\obj\Debug\net5.0\ref\Bowling.dll
