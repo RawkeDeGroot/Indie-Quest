@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\bin\Debug\net5.0\Generate Characters, 5th Edition.exe
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\bin\Debug\net5.0\Generate Characters, 5th Edition.deps.json
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\bin\Debug\net5.0\Generate Characters, 5th Edition.runtimeconfig.json
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\bin\Debug\net5.0\Generate Characters, 5th Edition.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\bin\Debug\net5.0\Generate Characters, 5th Edition.dll
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\bin\Debug\net5.0\Generate Characters, 5th Edition.pdb
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\Generate Characters, 5th Edition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\Generate Characters, 5th Edition.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\Generate Characters, 5th Edition.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\Generate Characters, 5th Edition.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\Generate Characters, 5th Edition.dll
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\refint\Generate Characters, 5th Edition.dll
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\Generate Characters, 5th Edition.pdb
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\Generate Characters, 5th Edition.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Generate Characters, 5th Edition\Generate Characters, 5th Edition\obj\Debug\net5.0\ref\Generate Characters, 5th Edition.dll
