@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.exe
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.deps.json
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.runtimeconfig.json
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.dll
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.pdb
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.dll
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\refint\Generate characters and monsters.dll
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.pdb
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\ref\Generate characters and monsters.dll
