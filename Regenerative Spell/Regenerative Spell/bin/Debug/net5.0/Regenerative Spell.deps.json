@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Regenerative Spell/1.0.0": {
+        "runtime": {
+          "Regenerative Spell.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Regenerative Spell/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
