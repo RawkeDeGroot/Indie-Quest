@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Tankgame\Tankgame\bin\Debug\net5.0\Tankgame.exe
+C:\Users\Robin\source\repos\Tankgame\Tankgame\bin\Debug\net5.0\Tankgame.deps.json
+C:\Users\Robin\source\repos\Tankgame\Tankgame\bin\Debug\net5.0\Tankgame.runtimeconfig.json
+C:\Users\Robin\source\repos\Tankgame\Tankgame\bin\Debug\net5.0\Tankgame.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Tankgame\Tankgame\bin\Debug\net5.0\Tankgame.dll
+C:\Users\Robin\source\repos\Tankgame\Tankgame\bin\Debug\net5.0\Tankgame.pdb
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\Tankgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\Tankgame.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\Tankgame.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\Tankgame.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\Tankgame.dll
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\refint\Tankgame.dll
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\Tankgame.pdb
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\Tankgame.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Tankgame\Tankgame\obj\Debug\net5.0\ref\Tankgame.dll
