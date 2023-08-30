@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Fractal\Fractal\bin\Debug\net5.0\Fractal.exe
+C:\Users\Robin\source\repos\Fractal\Fractal\bin\Debug\net5.0\Fractal.deps.json
+C:\Users\Robin\source\repos\Fractal\Fractal\bin\Debug\net5.0\Fractal.runtimeconfig.json
+C:\Users\Robin\source\repos\Fractal\Fractal\bin\Debug\net5.0\Fractal.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Fractal\Fractal\bin\Debug\net5.0\Fractal.dll
+C:\Users\Robin\source\repos\Fractal\Fractal\bin\Debug\net5.0\Fractal.pdb
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\Fractal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\Fractal.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\Fractal.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\Fractal.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\Fractal.dll
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\refint\Fractal.dll
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\Fractal.pdb
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\Fractal.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Fractal\Fractal\obj\Debug\net5.0\ref\Fractal.dll
