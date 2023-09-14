@@ -1,0 +1,16 @@
+C:\Users\Robin\source\repos\backers\backers\bin\Debug\net5.0\backers.txt
+C:\Users\Robin\source\repos\backers\backers\bin\Debug\net5.0\backers.exe
+C:\Users\Robin\source\repos\backers\backers\bin\Debug\net5.0\backers.deps.json
+C:\Users\Robin\source\repos\backers\backers\bin\Debug\net5.0\backers.runtimeconfig.json
+C:\Users\Robin\source\repos\backers\backers\bin\Debug\net5.0\backers.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\backers\backers\bin\Debug\net5.0\backers.dll
+C:\Users\Robin\source\repos\backers\backers\bin\Debug\net5.0\backers.pdb
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\backers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\backers.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\backers.AssemblyInfo.cs
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\backers.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\backers.dll
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\refint\backers.dll
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\backers.pdb
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\backers.genruntimeconfig.cache
+C:\Users\Robin\source\repos\backers\backers\obj\Debug\net5.0\ref\backers.dll
