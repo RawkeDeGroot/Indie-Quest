@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Enums\Enums\bin\Debug\net5.0\Enums.exe
+C:\Users\Robin\source\repos\Enums\Enums\bin\Debug\net5.0\Enums.deps.json
+C:\Users\Robin\source\repos\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+C:\Users\Robin\source\repos\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Enums\Enums\bin\Debug\net5.0\Enums.dll
+C:\Users\Robin\source\repos\Enums\Enums\bin\Debug\net5.0\Enums.pdb
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\Enums.dll
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\refint\Enums.dll
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\Enums.pdb
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Enums\Enums\obj\Debug\net5.0\ref\Enums.dll
