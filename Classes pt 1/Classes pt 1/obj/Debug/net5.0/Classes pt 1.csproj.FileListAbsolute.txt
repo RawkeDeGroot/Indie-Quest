@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\bin\Debug\net5.0\Classes pt 1.exe
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\bin\Debug\net5.0\Classes pt 1.deps.json
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\bin\Debug\net5.0\Classes pt 1.runtimeconfig.json
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\bin\Debug\net5.0\Classes pt 1.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\bin\Debug\net5.0\Classes pt 1.dll
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\bin\Debug\net5.0\Classes pt 1.pdb
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\Classes pt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\Classes pt 1.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\Classes pt 1.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\Classes pt 1.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\Classes pt 1.dll
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\refint\Classes pt 1.dll
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\Classes pt 1.pdb
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\Classes pt 1.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Classes pt 1\Classes pt 1\obj\Debug\net5.0\ref\Classes pt 1.dll
