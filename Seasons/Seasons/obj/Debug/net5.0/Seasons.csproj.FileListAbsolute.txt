@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Seasons\Seasons\bin\Debug\net5.0\Seasons.exe
+C:\Users\Robin\source\repos\Seasons\Seasons\bin\Debug\net5.0\Seasons.deps.json
+C:\Users\Robin\source\repos\Seasons\Seasons\bin\Debug\net5.0\Seasons.runtimeconfig.json
+C:\Users\Robin\source\repos\Seasons\Seasons\bin\Debug\net5.0\Seasons.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Seasons\Seasons\bin\Debug\net5.0\Seasons.dll
+C:\Users\Robin\source\repos\Seasons\Seasons\bin\Debug\net5.0\Seasons.pdb
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\Seasons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\Seasons.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\Seasons.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\Seasons.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\Seasons.dll
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\refint\Seasons.dll
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\Seasons.pdb
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\Seasons.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Seasons\Seasons\obj\Debug\net5.0\ref\Seasons.dll
