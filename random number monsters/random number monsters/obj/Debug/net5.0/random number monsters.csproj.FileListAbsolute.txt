@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\random number monsters\random number monsters\bin\Debug\net5.0\random number monsters.exe
+C:\Users\Robin\source\repos\random number monsters\random number monsters\bin\Debug\net5.0\random number monsters.deps.json
+C:\Users\Robin\source\repos\random number monsters\random number monsters\bin\Debug\net5.0\random number monsters.runtimeconfig.json
+C:\Users\Robin\source\repos\random number monsters\random number monsters\bin\Debug\net5.0\random number monsters.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\random number monsters\random number monsters\bin\Debug\net5.0\random number monsters.dll
+C:\Users\Robin\source\repos\random number monsters\random number monsters\bin\Debug\net5.0\random number monsters.pdb
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\random number monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\random number monsters.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\random number monsters.AssemblyInfo.cs
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\random number monsters.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\random number monsters.dll
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\refint\random number monsters.dll
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\random number monsters.pdb
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\random number monsters.genruntimeconfig.cache
+C:\Users\Robin\source\repos\random number monsters\random number monsters\obj\Debug\net5.0\ref\random number monsters.dll
