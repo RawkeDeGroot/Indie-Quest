@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Fractoral\Fractoral\bin\Debug\net5.0\Fractoral.exe
+C:\Users\Robin\source\repos\Fractoral\Fractoral\bin\Debug\net5.0\Fractoral.deps.json
+C:\Users\Robin\source\repos\Fractoral\Fractoral\bin\Debug\net5.0\Fractoral.runtimeconfig.json
+C:\Users\Robin\source\repos\Fractoral\Fractoral\bin\Debug\net5.0\Fractoral.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Fractoral\Fractoral\bin\Debug\net5.0\Fractoral.dll
+C:\Users\Robin\source\repos\Fractoral\Fractoral\bin\Debug\net5.0\Fractoral.pdb
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\Fractoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\Fractoral.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\Fractoral.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\Fractoral.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\Fractoral.dll
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\refint\Fractoral.dll
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\Fractoral.pdb
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\Fractoral.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Fractoral\Fractoral\obj\Debug\net5.0\ref\Fractoral.dll
