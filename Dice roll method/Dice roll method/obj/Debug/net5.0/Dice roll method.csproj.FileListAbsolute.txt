@@ -1,0 +1,15 @@
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\bin\Debug\net5.0\Dice roll method.exe
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\bin\Debug\net5.0\Dice roll method.deps.json
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\bin\Debug\net5.0\Dice roll method.runtimeconfig.json
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\bin\Debug\net5.0\Dice roll method.runtimeconfig.dev.json
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\bin\Debug\net5.0\Dice roll method.dll
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\bin\Debug\net5.0\Dice roll method.pdb
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\Dice roll method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\Dice roll method.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\Dice roll method.AssemblyInfo.cs
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\Dice roll method.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\Dice roll method.dll
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\refint\Dice roll method.dll
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\Dice roll method.pdb
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\Dice roll method.genruntimeconfig.cache
+C:\Users\Robin\source\repos\Dice roll method\Dice roll method\obj\Debug\net5.0\ref\Dice roll method.dll
